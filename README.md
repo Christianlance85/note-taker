@@ -15,9 +15,9 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Screenshot of Completed Application
 
-![Note Taker Demo](/public/assets\img/NoteRecord.png)
-![Note Taker Demo](/public/assets\img/CurrentNotes.png)
-![Note Taker Demo](/public/assets\img/RecordedNote.png)
+![Note Taker Demo](/public/assets/img/NoteRecord.png)
+![Note Taker Demo](/public/assets/img/CurrentNotes.png)
+![Note Taker Demo](/public/assets/img/RecordedNote.png)
 
 
 
