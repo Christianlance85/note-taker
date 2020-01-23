@@ -1,0 +1,26 @@
+{
+  "name": "note-taker-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christianlance85/note-taker"
+  },
+  "author": "Christian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christianlance85/note-taker/issues"
+  },
+  "homepage": "https://github.com/Christianlance85/note-taker#readme"
+}
